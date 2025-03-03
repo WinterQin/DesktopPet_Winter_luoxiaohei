@@ -90,7 +90,7 @@
             "type": "subprocess.run",
             "params": [
                 ".\\bat\\steam.bat",
-                "107563689"
+                "your staemid"
             ]
         },
         {
@@ -98,15 +98,7 @@
             "type": "subprocess.run",
             "params": [
                 ".\\bat\\steam.bat",
-                "qtmimizhanghu"
-            ]
-        },
-        {
-            "name": "阿根廷",
-            "type": "subprocess.run",
-            "params": [
-                ".\\bat\\steam.bat",
-                "ulvkm319"
+                "staemid"
             ]
         }
     ]
